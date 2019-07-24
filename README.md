@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### Well hello there!, last modification on the other branch is disappeared！
+=======
+### Well hello there! this is new change!
+>>>>>>> 4341a4c8f8decfe41224e3202df272b5129ad756
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
